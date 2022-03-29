@@ -6,8 +6,7 @@ I am studying Software Development in Test with Java/Python/Selenium.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![Selenium](https://img.shields.io/badge/Selenium-000000.svg?style=for-the-badge&logo=selenium&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-000000.svg?style=for-the-badge&logo=JMeter&logoColor=red)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-23E4405F.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ![](https://komarev.com/ghpvc/?username=ibrahimertugrulkorkmaz&color=BAEEDA)
 
