@@ -1,4 +1,4 @@
-I am studying Software Development in Test with Java/Python/Selenium.
+I am studying Software Development in Test with Java/Selenium.
 
 ![cbarkinozer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimertugrulkorkmaz&show_icons=true&theme=tokyonight)
 
