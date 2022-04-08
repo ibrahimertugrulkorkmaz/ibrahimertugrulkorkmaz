@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ibrahim Ertugrul</h1>
-<h3 align="center">I'm a passionate Software Test Engineer from Turkey</h3>
+<h3 align="center">I'm a passionate Software QA Engineer from Turkey</h3>
 
 ## 🙋‍♂️ About Me
 
@@ -54,13 +54,14 @@
 </p>
 
 ## 📊 My Github Stats
-  <br/>
-    <a href="https://github.com/ibrahimertugrulkorkmaz/github-readme-stats"><img alt="Ibrahim Ertugrul Korkmaz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ibrahimertugrulkorkmaz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/ibrahimertugrulkorkmaz/github-readme-stats"><img alt="İbrahim Ertugrul Korkmaz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimertugrulkorkmaz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+ 
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimertugrulkorkmaz&hide=javascript,html,css,scss,less,go&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)  
 
-<br/>
-<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimertugrulkorkmaz&show_icons=true&locale=en" alt="ibrahimertugrulkorkmaz" /></p>⠀
+
+ 
+
+
 
 
 
