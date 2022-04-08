@@ -13,9 +13,6 @@
  <a href="https://www.linkedin.com/ibrahimertugrulkorkmaz/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" width="40" height="40"/> 
 </a>
-<a href="ibrahimertugrulkorkmaz@gmail.com" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="gmail" width="40" height="40"/> 
-</a>
 <a href="https://www.hackerrank.com/iertugrulkorkmaz" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackerrank" width="40" height="40"/> 
 </a>
