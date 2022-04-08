@@ -10,7 +10,7 @@
 
 ## 📫 Connect with me:
 <p align="left">
- <a href="https://www.linkedin.com/ibrahimertugrulkorkmaz/" target="_blank" rel="noreferrer"> 
+ <a href="https://www.linkedin.com/en/ibrahimertugrulkorkmaz/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" width="40" height="40"/> 
 </a>
 <a href="https://www.hackerrank.com/iertugrulkorkmaz" target="_blank" rel="noreferrer"> 
