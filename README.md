@@ -56,11 +56,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimertugrulkorkmaz&show_icons=true&locale=en" alt="ibrahimertugrulkorkmaz" /></p>⠀
 
- 
-
-
-
-
 
 ![](https://komarev.com/ghpvc/?username=ibrahimertugrulkorkmaz&color=BAEEDA)
 
